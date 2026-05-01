@@ -61,20 +61,20 @@ The vibration sensor continuously monitors the motor condition. When vibration e
 - Condition monitoring systems
 
 ## Code
-- Arduino code: `code/arduino.ino`
-- MATLAB scripts: `matlab/analysis.m`
+- Arduino code: `arduino.ino`
+- MATLAB scripts: `analysis.m`
 
 ## Output
 The system successfully detects abnormal vibration conditions and shuts down the motor in real time. MATLAB visualization clearly distinguishes between normal and faulty states using time-domain and frequency-domain analysis.
 
 ## MATLAB Output (Time Domain)
-![Time Domain](images/time-domain.png)
+![Time Domain](time domain.png)
 
 ## MATLAB Output (FFT)
-![FFT](images/fft.png)
+![FFT](fft.png)
 
 ## Circuit Diagram
-![Circuit](images/circuit.png)
+![Circuit](circuit-simulation.png)
 
 ## Hardware Setup
-![Setup](images/setup.png)
+![Setup](hardware-design)
