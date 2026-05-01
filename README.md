@@ -68,7 +68,7 @@ The vibration sensor continuously monitors the motor condition. When vibration e
 The system successfully detects abnormal vibration conditions and shuts down the motor in real time. MATLAB visualization clearly distinguishes between normal and faulty states using time-domain and frequency-domain analysis.
 
 ## MATLAB Output (Time Domain)
-![Time Domain](time domain.png)
+![Time Domain](time-domain.png)
 
 ## MATLAB Output (FFT)
 ![FFT](fft.png)
